@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.db
+*.db-shm
+*.db-wal
+db.json
+server.log
+test_out.*
+.vite/
+dist/
+.mcp.json
+Nexus-Finance-Versao-Final/

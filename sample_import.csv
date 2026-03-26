@@ -1,0 +1,5 @@
+Data,Tipo,Valor,Descrição,Categoria,Produto,Cliente,Forma Pgto
+01/03/2026,RECEITA,150.50,Venda Online,Vendas,Produto Teste A,Cliente Novo,PIX
+02/03/2026,DESPESA,-45.00,Material,Operacional,,,CARTAO_CREDITO
+03/03/2026,RECEITA,1200,Consultoria,Serviços,Serviço Premium,Empresa X,BOLETO
+xxx,,inválido,,,,,

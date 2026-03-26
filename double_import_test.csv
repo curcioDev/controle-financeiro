@@ -1,0 +1,3 @@
+data_transacao;tipo;valor;produto_nome;quantidade;cliente_nome
+2024-10-15;RECEITA;500.00;Soja Safra 2024;100;Cliente A
+2024-10-16;DESPESA;150.00;Adubo NPK;50;Fornecedor B
