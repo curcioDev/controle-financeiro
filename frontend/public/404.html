@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script>
+      // SPA redirect for GitHub Pages
+      // Saves the path in sessionStorage and redirects to index
+      var base = '/controle-financeiro/';
+      var path = window.location.pathname.replace(base, '');
+      if (path) {
+        sessionStorage.setItem('spa-redirect', path);
+      }
+      window.location.replace(base);
+    </script>
+  </head>
+  <body></body>
+</html>
